@@ -82,12 +82,12 @@ h1::selection, p::selection, a::selection{
 
 @media screen and (max-width: 930px){
     body{
-        font-size: 14px;
+        font-size: 12px;
     }
     section{
         height: 55vh;
     }
     header{
-        height: 25vh;
+        height: 28vh;
     }
 }
